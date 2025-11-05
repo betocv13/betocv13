@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  2 years of experience building apps with React, Vue, TypeScript, Node.js, SQL & more  <br>📚 I'm currently learning AI integrations, testing frameworks (Jest/Cypress), and scaling full-stack apps  <br>🎯 Goals: Become a full-stack wizard 🧙‍♂️, ship polished user experiences, and contribute to open-source  <br>🎲 Fun fact: I can design, brand, and code — so your app can look good *and* work great!</p>
+<p align="left">✨  3 years of experience building apps with React, Vue, TypeScript, Node.js, SQL & more  <br>📚 I'm currently learning AI integrations, Mobile App Development, and scaling full-stack apps  <br>🎯 Goals: Become a full-stack wizard 🧙‍♂️, ship polished user experiences, and contribute to open-source  <br>🎲 Fun fact: I can design, brand, and code — so your app can look good *and* work great!</p>
 
 ###
 
