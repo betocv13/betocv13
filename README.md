@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alberto and I'm a Software Engineer, from Iowa</p>
+<p align="left">My name is Beto and I'm a Software Engineer & Designer, from Iowa</p>
 
 ###
 
